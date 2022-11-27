@@ -1,5 +1,5 @@
 {
-  "_comment": "I am so sorry for this, CheapBotsDoneQuick is very picky with the regexp it recognizes...",
+  "_comment": "I am so sorry for this, Cheap Bots, Done Quick! is very picky with the regexp it recognizes...",
   ".*\n*(?:(?<![a-zA-Z])((([cC][lLwW][oO]+[wW][nN][sS]*)|🤡)[ \t\n\r]*)([pP][lLwW]([sS]|[zZ2]|[eE]+[aA]+[sS][eE]+))(?![a-zA-Z])).*\n*": "#origin#",
   ".*\n*(?:(?<![a-zA-Z])([pP][lLwW]([sS]+|[zZ2]+|[eE]+[aA]+[sS][eE]+)|[ \t\n\r]*([gG][iI]+([vV]|[mM]{2,})[eE]+)|([sS][eE]+[nN]+[dD]+))([ \t\n\r]*[mM][eE]+)*([ \t\n\r]*[aA])*([ \t\n\r]*[rRwW][aA]+[nN][dD][oO]+[mM]+)*([ \t\n\r]*([cC][lLwW][oO]+[wW][nN][sS]*|🤡))(?![a-zA-Z])).*\n*": "#origin#",
   ".*\n*(?:(?<![a-zA-Z])(([kK][iI]+[nN][sS]*|([cC][lLwW][oO]+[wW][nN]+[sS]*)|🤡)[ \t\n\r]*)(([aA][sS]{1,}[iI]+(([gG][nN]+)|([nN][gG])))|[gG][iI]+([vV]|[mM]{2,})[eE]+|[sS][eE]+[nN]+[dD]+|([pP][lLwW]([sS]+|[zZ2]+|[eE]+[aA][sS][eE]+)[ \t\n\r]*)|([mM][eE]+))+(?![a-zA-Z])).*\n*": "#kin#",
@@ -11,5 +11,5 @@
   ".*\n*(?:(?<![a-zA-Z])(([wW][hH][oO]+[ \t\n\r]*)([lLwW][oOuU]+[vVbB][eE]?[sS]*)+[ \t\n\r]*[mM][eE]+(?![a-zA-Z]))).*\n*": "#loves#",
   ".*\n*(?:(?<![a-zA-Z])([hH]([iI]+|[eE][yY]+)[ \t\n\r]*)+[bB][eE]+[sS]+[tT][iI][eE]+[sS]*(?![a-zA-Z])).*\n*": "#origin#",
   ".*\n*(?:(?<![a-zA-Z])([hH][eE]+[lLwW]{2,}[oO]+|[hH][iI])([ \t\n\r]*[bB][oO]+[tT]+[sS]*)(?![a-zA-Z])).*\n*": "#hello#",
-  ".*\n*(?:(?<![a-zA-Z])([tT][hH][aA]+[nN][kK][sS]*|[tT][yY]+(([vV]|[sS])[mM])*|[gG][oO]{2,}[dD])([ \t\n\r]*[yY]*[oO]*[uU]+)*([ \t\n\r]*[bB][oO]+[tT]+[sS]*)([ \t\n\r]*)(?![a-zA-Z])).*\n*": "#thanks#"
+  ".*\n*(?:(?<![a-zA-Z])([tT][hH][aA]+[nN][kK][sS]*|[tT][yY]+(([vV]|[sS])[mM]+)*|[gG][oO]{2,}[dD])([ \t\n\r]*[yY]*[oO]*[uU]+)*([ \t\n\r]*[bB][oO]+[tT]+[sS]*)([ \t\n\r]*)(?![a-zA-Z])).*\n*": "#thanks#"
 }
