@@ -10,6 +10,6 @@
   ".*\n*(?:(?<![a-zA-Z])(([pP][sS]+[tT]?)[ \t\n\r]*){2,}(?![a-zA-Z])).*\n*": "#origin#",
   ".*\n*(?:(?<![a-zA-Z])(([wW][hH][oO]+[ \t\n\r]*)([lLwW][oOuU]+[vVbB][eE]?[sS]*)+[ \t\n\r]*[mM][eE]+(?![a-zA-Z]))).*\n*": "#loves#",
   ".*\n*(?:(?<![a-zA-Z])([hH]([iI]+|[eE][yY]+)[ \t\n\r]*)+[bB][eE]+[sS]+[tT][iI][eE]+[sS]*(?![a-zA-Z])).*\n*": "#origin#",
-  ".*\n*(?:(?<![a-zA-Z])([hH][eE]+[lLwW]{2,}[oO]+|[hH][iI])([ \t\n\r]*[bB][oO]+[tT]+[sS]*)(?![a-zA-Z])).*\n*": "#hello#",
-  ".*\n*(?:(?<![a-zA-Z])([tT][hH][aA]+[nN][kK][sS]*|[tT][yY]+(([vV]|[sS])[mM]+)*|[gG][oO]{2,}[dD])([ \t\n\r]*[yY]*[oO]*[uU]+)*([ \t\n\r]*[bB][oO]+[tT]+[sS]*)([ \t\n\r]*)(?![a-zA-Z])).*\n*": "#thanks#"
+  ".*\n*(?:(?<![a-zA-Z])([hH]([eE]+[lLwW]{2,}[oO]+|[iI]+|[oO]+[wW][dD][yY]+))([ \t\n\r]*([bB][oO]+[tT]+[sS]*|[cC][oO][tT][dD]))(?![a-zA-Z])).*\n*": "#hello#",
+  ".*\n*(?:(?<![a-zA-Z])([tT][hH][aA]+[nN][kK][sS]*|[tT][yY]+(([vV]|[sS])[mM]+)*|[gG][oO]{2,}[dD])([ \t\n\r]*[yY]*[oO]*[uU]+)*([ \t\n\r]*([bB][oO]+[tT]+[sS]*|[cC][oO][tT][dD]))([ \t\n\r]*)(?![a-zA-Z])).*\n*": "#thanks#"
 }
